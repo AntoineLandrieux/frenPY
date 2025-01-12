@@ -61,11 +61,11 @@ if => si
 
 else => sinon
 
-while True => répéter à l'infini
+while True => répéter indéfiniment
 
 round => arrondir
 
-os.system("cls") => nouvelle_écran
+os.system("cls") => nouvel écran
 
 print("version actuelle : {frpy_version}") => frpy_info (***il permet d'afficher la version actuelle de frenpy ***)
 
